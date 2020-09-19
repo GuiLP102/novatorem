@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://novatorem-2ws31j1dp.vercel.app//api/spotify)](https://open.spotify.com/user/	lyndseylewis7)
 
   </td>
   <td width="50%">
@@ -16,3 +16,4 @@
   </table>
 
 [//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+

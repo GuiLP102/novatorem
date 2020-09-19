@@ -1,0 +1,24 @@
+
+- CLIENT ID: 507484fac8834537be28af42fa08ae04
+- SECRET ID: ad76477651494a3c84d2896483c5b698
+
+URL :
+
+https://accounts.spotify.com/authorize?client_id=507484fac8834537be28af42fa08ae04&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/
+
+CODE:
+
+AQCWypRXnD-xIYgnqKhuXbH-M0KqnOrKw2nCxHXJiHSaWmKlTr0QY5aB3QQFdt_Rufg_42c2sIMKTaBz8X7D2bTCsK9O6YzCYiQluDrYNhyjYl3X0SxbHz1-VcusTNClJZl8XymzAMhuloh3aJUBBzSw8vK0TdD3GhIUd0x2G8Yl7XJIv2GViiGofvvt1Z6EJZ0R4E8nnxWiS3A_qpRZUxZN1HdA6liELo4c9w8xPSUVwl95Qd0
+
+BASE64:
+
+NTA3NDg0ZmFjODgzNDUzN2JlMjhhZjQyZmEwOGFlMDQ6YWQ3NjQ3NzY1MTQ5NGEzYzg0ZDI4OTY0ODNjNWI2OTg=
+
+
+curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic NTA3NDg0ZmFjODgzNDUzN2JlMjhhZjQyZmEwOGFlMDQ6YWQ3NjQ3NzY1MTQ5NGEzYzg0ZDI4OTY0ODNjNWI2OTg=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQCWypRXnD-xIYgnqKhuXbH-M0KqnOrKw2nCxHXJiHSaWmKlTr0QY5aB3QQFdt_Rufg_42c2sIMKTaBz8X7D2bTCsK9O6YzCYiQluDrYNhyjYl3X0SxbHz1-VcusTNClJZl8XymzAMhuloh3aJUBBzSw8vK0TdD3GhIUd0x2G8Yl7XJIv2GViiGofvvt1Z6EJZ0R4E8nnxWiS3A_qpRZUxZN1HdA6liELo4c9w8xPSUVwl95Qd0" https://accounts.spotify.com/api/token
+
+REFRESH_TOKEN:
+
+AQDFyr
+QDZ0qmqPnjKZy7uswS39rXe-2fgqAvo0i3ZZGaQWGgqB30AP-lrs9zB0b2QdNQY5NfZBqY9Id4xNrrlU
+zrgpCKT7xdd704RWIt9_6hLj6wermIUbxEOf_k8WcIQSY
